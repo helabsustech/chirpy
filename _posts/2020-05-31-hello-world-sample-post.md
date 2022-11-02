@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hello Homelab
+title: He Lab
 date: 2018-05-03 12:34:27 +0100
 categories: [homelab,hardware]
 tags: [servers,dell,hp,supermicro]
